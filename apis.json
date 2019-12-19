@@ -1,0 +1,40 @@
+{
+    "name": "Dazzlepod IP Address Lookup",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/ip-address-lookup-screen.png",
+    "tags": [
+        "api provider",
+        "geo",
+        "have api",
+        "profile",
+        "webdesign",
+        "whois"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dazzlepod-ip-address-lookup\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Dazzlepod IP Address Lookup",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/ip-address-lookup-screen.png",
+            "humanURL": "https:\/\/dazzlepod.com\/ip\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dazzlepod-ip-address-lookup-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/dazzlepod.com\/ip\/"
+        }
+    ]
+}
